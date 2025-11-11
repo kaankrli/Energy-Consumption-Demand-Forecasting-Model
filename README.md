@@ -49,6 +49,3 @@ EnerVision, a smart-energy provider, wants to:
 1. Upload the following files to Colab:
    - `EnerVision_Energy_Forecasting.ipynb`
    - `energy_consumption_2000_rows.csv`
-2. Install required libraries:
-   ```bash
-   !pip install prophet tensorflow statsmodels
