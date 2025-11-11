@@ -1,6 +1,6 @@
 # ⚡ EnerVision: Energy Consumption and Demand Forecasting
 
-This project simulates an energy company's data-driven approach to forecasting electricity consumption using **time series models** like ARIMA, Prophet, and LSTM.  
+This project simulates an energy company's data-driven approach to forecasting electricity consumption using **time series models** like ARIMA.  
 It also includes trend and seasonality analysis, plus energy-saving recommendations.
 
 ---
@@ -18,7 +18,7 @@ EnerVision, a smart-energy provider, wants to:
 ## 🧠 Methods Used
 - Exploratory Data Analysis (EDA)
 - Time Series Decomposition
-- Forecasting: `ARIMA`, `Prophet`, and optional `LSTM`
+- Forecasting: `ARIMA`.
 - Feature Engineering (lags, rolling means)
 - Visualization with `matplotlib` & `seaborn`
 
@@ -41,8 +41,7 @@ EnerVision, a smart-energy provider, wants to:
 |-----------|-------|
 | Data Manipulation | pandas, numpy |
 | Visualization | matplotlib, seaborn |
-| Time Series | statsmodels, prophet |
-| Deep Learning | tensorflow (optional) |
+| Time Series | statsmodels |
 
 ---
 
